@@ -17,6 +17,6 @@ Opencare is licensed under Creative Commons 4.0 International.
  <dutta2005@gmail.com>, 
  <bisu@drtc.isibang.ac.in> 
 
-**Prashant Kumar Sinha (Indian Statistical Institute)**  
+**Debanjali Bain (Indian Statistical Institute)**  
 
- <pk@drtc.isibang.ac.in> 
+ <debanjali@drtc.isibang.ac.in > 
